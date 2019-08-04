@@ -1,2 +1,3 @@
-# RFC
-This is a place to hold proposals and design discussions for components and services of the Decentralized/Edge Cloud
+# Decentralized/Edge Cloud
+
+## [Getting Started](./getting-started/README.md)
