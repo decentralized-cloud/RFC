@@ -4,7 +4,7 @@
 
 Imagine a world where
 
-* you can choose a self-contained peice of code
+* you can choose a self-contained piece of code
 * and you can utilize the available compute/storage resources on the Internet
 
 to run the code anywhere at the push of a button. Where you can remotely control the code that is running on mobile devices in people pockets, on people Desktops/Laptops running in their homes, on servers running in a factory building. And you can do it all with the same technology. A world where people on the Internet can rent their computers and mobile devices to people or companies who do not have enough in-house resources and currently paying a lot to the cloud service providers to have compute/storage resources. A world where there is no single point of failure and no centralized authority controls how your software is deployed. Decentralized/Edge Cloud main purpose is to enable you do all these in a secure and highly resilient way.
@@ -25,4 +25,4 @@ The Decentralized/Edge Cloud enables companies to use their in-house available r
 
 ## Introducing Decentralized/Edge Cloud
 
-Decentralized/Edge Cloud is a decentralized edge computing/storage platform powered by the people on the Internet who are willing to rent their availale computing power and storage. It aims to make developing edge software just like developing for the cloud. Distributed IoT applications let you put your code at the edge and keep data anywhere you want. Decentralized/Edge Cloud enables you to use cheaper resources instead of dedicating hardware to run the same services and applications on the edge.
+Decentralized/Edge Cloud is a decentralized edge computing/storage platform powered by the people on the Internet who are willing to rent their available computing power and storage. It aims to make developing edge software just like developing for the cloud. Distributed IoT applications let you put your code at the edge and keep data anywhere you want. Decentralized/Edge Cloud enables you to use cheaper resources instead of dedicating hardware to run the same services and applications on the edge.
